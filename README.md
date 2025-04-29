@@ -1,3 +1,5 @@
+⚠️ Academic Integrity Notice: This repository is shared publicly for learning and demonstration purposes only. Unauthorized copying or direct submission of this work for academic credit is strictly prohibited and may be considered academic misconduct.
+
 # 📊 Marketing Campaign Analysis – Predictive Modeling
 
 This project analyzes a telecommunications marketing campaign dataset to predict customer subscription likelihood and extract actionable business insights.  
