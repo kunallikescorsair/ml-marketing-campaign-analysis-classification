@@ -1,0 +1,11 @@
+altair
+imblearn
+matplotlib
+numpy
+pandas
+scikit-learn
+scipy
+seaborn
+skopt
+statsmodels
+warnings
